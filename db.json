@@ -1,0 +1,22 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "Peru"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche",
+            "origen": "Perú"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "cerrin queria crecer",
+            "autor": "clemente moyano",
+            "año": "2020"
+        }
+    ]
+}
